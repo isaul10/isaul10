@@ -5,8 +5,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlzaDcyZTd4bW9iZDVhNHB3NXM2Z3FpYWpmc3o1ZHd5cnN4NGxvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="25px">&nbsp;***YO***
 
 soy estudiante de programacion, estoy a al amitad de la carrera, tambien estoy cursando un curso completo de desarrollo web en la plataforma de Coderhouse y me encuentro poniendo en practica mis proyectos en esta plataforma.
--  👾 actualmente estoy aprendiendo...
-  - javascrip
+-  👾 actualmente estoy aprendiendo  javascrip.
 - dejando de lado mi aprendizaje como programador,⚡me gusta el deporte como el futbol y las mma , 🎮 los videojuegos, 🎵 y escuchar musica vieja.
 
 ## Mis habilidades
